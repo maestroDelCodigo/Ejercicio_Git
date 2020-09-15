@@ -1,15 +1,29 @@
 .navbar{
     padding:1rem 12rem !important;
 }
-
+.imagenperfil{
+    width: 200px;
+    position: relative;
+}
 img{
     width: 200px;
     height: 200px;
 border-radius: 110px;
+
 }
 
 .text{
     font-size: 12px;
     margin-left: 30px;
     margin-top: 15px;
+    width: 20%;
+    position: absolute;
+}
+
+.cuerpo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
 }
