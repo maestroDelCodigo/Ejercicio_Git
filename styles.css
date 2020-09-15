@@ -1,0 +1,15 @@
+.navbar{
+    padding:0rem 12rem !important;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+border-radius: 110px;
+}
+
+.text{
+    font-size: 12px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
